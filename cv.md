@@ -1,4 +1,4 @@
-## [My first CV!](https://imymonkey.github.io/rsschool-cv/cv)
+## [My first CV!](https://iMyMonkey.github.io/rsschool-cv/cv)
 # Andrei Piatrushin 
 ### Contact information
 email: justmymonkey@gmail.com
