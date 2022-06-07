@@ -7,7 +7,7 @@ email: justmymonkey@gmail.com
 
 ### About me
 __I am builder, i teach the programer courses. And i wanna to work to this sphere.
-I am  very funny men. Love books, films, video games, serials. Small study English language, as you look :D__
+I am  very funny men. Love books, films, video games, serials, football. Small study English language, as you look :D__
 
 ---
 ## Skills:
