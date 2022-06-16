@@ -38,7 +38,7 @@ body {
   }
   .nav-link {
     color: #829985;
-    text-decoration: none;  
+    text-decoration: none;
     transition: color 0.5s;
   }
   .nav-link:hover {
@@ -57,4 +57,53 @@ body {
     .section {
       width: 100%;
     }
+  }
+  body {
+    font-family: 'Charis SIL', serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #001f1b;
+  }
+  .section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #728675;
+  }
+
+  .courses1 {
+    text-decoration: none;
+    color: #4f7854;
+    transition: color 0.5s;
+  }
+  
+  .courses1:hover {
+    color: #425745;
+  }
+  .mywork {
+    text-decoration: none;
+    color:#425745;
+    transition: color 0.5s;
+  }
+  .mywork:hover {
+  color:#4d2323;
+  }
+  .nav {
+    background: rgb(240, 210, 210)
+  }
+  .main-container {
+    margin-left: 50px;
+  }
+  .footer {
+    text-decoration: none;
+    color:#425745;
+    transition: color 0.5;
+  }
+  .footer:hover {
+    color:#4d2323
+  }
+  .container {
+    background-color:rgb(132, 187, 233)
   }
