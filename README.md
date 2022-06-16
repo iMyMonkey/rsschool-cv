@@ -1,1 +1,1 @@
-https://iMyMonkey.github.io/rsschool-cv/
+https://imymonkey.github.io/rsschool-cv/
