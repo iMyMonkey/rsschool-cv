@@ -1,1 +1,1 @@
-# rsschool-cv
+https://imymonkey.github.io/rsschool-cv/
